@@ -94,7 +94,8 @@
 
 # # Väljundi kuvamine
 # print(f"{word1.upper()} {word2.upper()} {word1.upper()} {word2.upper()} {word1.upper()} {word1.upper()} {word2.upper()} {word1.upper()}")
-# #Ülesanne 6# 
+
+# #Ülesanne 6 
 # #Laulusõnad
 # t="""
 # Rong see sõitis tsuhh tsuhh tsuhh,

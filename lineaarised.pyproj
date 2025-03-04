@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c13b1a5f-11f9-4fc8-aa5d-eba522e7286b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>module1.py</StartupFile>
+    <StartupFile>vigade otsing.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="lineaarised.py" />
-    <Compile Include="module1.py" />
+    <Compile Include="vigade otsing.py" />
+    <Compile Include="ÜL 03.03.25.py" />
+    <Compile Include="ÜL first lesson.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Fünktsioonid.txt" />

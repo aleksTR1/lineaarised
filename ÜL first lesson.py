@@ -93,8 +93,8 @@
 
 # print(f"Kolmnurga ümbermõõt on: {perimeter}")
 
-# #ülesanne 10
-# # Algandmed
+#ülesanne 10
+# Algandmed
 # pizza_price = 12.90  # Pitsa hind
 # tip_percentage = 0.10  # Teenindustasu protsent
 
